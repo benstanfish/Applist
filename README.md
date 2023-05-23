@@ -13,7 +13,4 @@
   <li><a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a></li>
   <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></li>
   <li><a href="https://windirstat.net/" target="_blank">Windirstat</a></li>
-  <li><a href="" target="_blank"></a></li>
-  <li><a href="" target="_blank"></a></li>
-  <li><a href="" target="_blank"></a></li>
 </ul>
