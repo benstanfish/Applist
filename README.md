@@ -1,7 +1,7 @@
 # Recommended App List
 
 <h2>Productivity</h2>
-<ul>
+<ul style="columns: 2;">
   <li><a href="https://www.office.com/" target="_blank">Office</a></li>
   <li><a href=https://inkscape.org/"" target="_blank">Inkscape</a></li>
   <li><a href="https://www.gimp.org/" target="_blank">Gimp</a></li>
@@ -11,7 +11,7 @@
   <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></li>
   <li><a href="https://windirstat.net/" target="_blank">Windirstat</a></li>
   <li><a href="https://apps.ankiweb.net/index.html" target="_blank">Anki</a></li>
-  <li><a href="" target="_blank"></a></li>
+  <li><a href="https://www.techsmith.com/screen-capture.html" target="_blank">Snagit</a></li>
   <li><a href="" target="_blank"></a></li>
   <li><a href="" target="_blank"></a></li>
   <li><a href="" target="_blank"></a></li>
