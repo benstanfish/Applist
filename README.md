@@ -9,6 +9,7 @@
   <li><a href="https://www.irfanview.com/" target="_blank">IrfanView</a></li>
   <li><a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a></li>
   <li><a href="https://www.office.com/" target="_blank">Office</a></li>
+  <li><a href="https://regex101.com/" target="_blank">Snagit</a></li>
   <li><a href="https://www.techsmith.com/screen-capture.html" target="_blank">Snagit</a></li>
   <li><a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a></li>
   <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></li>
