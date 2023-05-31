@@ -10,7 +10,7 @@
   <li><a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a></li>
   <li><a href="https://www.office.com/" target="_blank">Office</a></li>
   <li><a href="https://regex101.com/" target="_blank">Regex101.com</a></li>
-   <li><a href="https://www.wbdg.org/dod/specsintact/software/download" target="_blank">SpecsIntact</a> - Only becuase I am a beggard for punishment</li>
+   <li><a href="https://www.wbdg.org/dod/specsintact/software/download" target="_blank">SpecsIntact</a> - Only becuase I am a beggard for punishment</li> 
   <li><a href="https://www.techsmith.com/screen-capture.html" target="_blank">Snagit</a></li>
   <li><a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a></li>
   <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></li>
