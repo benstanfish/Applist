@@ -16,3 +16,13 @@
   <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></li>
   <li><a href="https://windirstat.net/" target="_blank">Windirstat</a></li>
 </ul>
+
+
+### Py Modules
+
+<ul>
+  <li>matplotlib</li>
+  <li>numpy</li>
+  <li>pandas</li>
+  <li>scipy</li>
+</ul>
