@@ -26,4 +26,26 @@
   <li>numpy</li>
   <li>pandas</li>
   <li>scipy</li>
+  <li>jupyter-lab</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+
+#### Import Install Notes
+
+<ul>
+  <li>sudo apt update && sudo apt upgrade</li>
+  <li>sudo apt install gnome-screenshot</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
